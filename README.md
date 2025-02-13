@@ -2,6 +2,14 @@
 # 1-2_Group6_RecipesWireFrame
 1-2_Group6_RecipesWireFrameForClass_Week4
 
+Hey everyone!
+I hope that this is helpful for us to stay on schedule.
+The color of the interface can be updated as well if anyone has suggestions.
+
+Lets do this!
+
+Sean
+
 ## Project Description
 Welcome to the most delicious project you'll ever work on! In this 1/2 semester project, your group will whip up a fully-functional Recipe List Application using the following ingredients:
 - **Database**: Postgres
@@ -43,7 +51,7 @@ You'll have three repositories - one for the database (Postgres), one for the ba
 ### Week 4: Final Testing and Deployment
 - Test project to ensure all feature requests have been met and it is fully operational (taste test)
 - Deploy your project to the assigned server(s) (serve it up)
-- Create your 10-minute presentation (show off your culinary skills)
+- Create your 10-minute presentation (show off our culinary skills)
 
 ## Roles and Responsibilities
 
